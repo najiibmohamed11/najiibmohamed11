@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm abdinajib mohamed</h1>
 <h3 align="center">A passionate frontend developer from somalia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="display: flex;justify-content:center;hight:100px; align-item:center" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="abdinajiibmohamed11" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="display: flex;justify-content:center;hight:100px; align-item:center" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif" alt="abdinajiibmohamed11" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
