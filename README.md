@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **react**
-
-- 💬 Ask me about **html,css,js**
-
-- 📫 How to reach me **abdinajibmohamed403@gmail.com**
-
-- ⚡ Fun fact **funny**
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/najiibmohamed11/contributions)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
