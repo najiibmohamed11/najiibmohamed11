@@ -2,10 +2,11 @@
 <h3 align="center">sofftware engineer </h3>
 
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+![Github Stats](https://greptile-stats.vercel.app/api/widget/najiibmohamed11/stats)![Github Stats](https://greptile-stats.vercel.app/api/widget/najiibmohamed11/stats)
 
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/najiibmohamed11/contributions)
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/najiibmohamed11/highlights)
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/najiibmohamed11/archtype)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
