@@ -2,23 +2,12 @@
 <div align="center">
   <pre>                                             
                                               
-
-
-..####...#####...#####...######..##..##...####...######..######..#####..
-.##..##..##..##..##..##....##....###.##..##..##......##....##....##..##.
-.######..#####...##..##....##....##.###..######......##....##....#####..
-.##..##..##..##..##..##....##....##..##..##..##..##..##....##....##..##.
-.##..##..#####...#####...######..##..##..##..##...####...######..#####..
-........................................................................
-
-
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&center=true&vCenter=true&width=435&lines=Hi👋+I+Am+Abdinajib;+computer+nerd;i+love+under+the+hood" alt="Typing SVG" />
+</h3>
   </pre>
 
 <!-- Animated greeting -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&center=true&vCenter=true&width=435&lines=nerd+dev;i+love+under+the+hood" alt="Typing SVG" />
-</h3>
 
 <!-- GitHub Stats Cube -->
 <!--- <div align="center">
@@ -33,7 +22,7 @@
 </div>
 -->
 <!-- Project Showcase -->
-<h2 align="center">🚀 Featured Creations</h2>
+<!-- <h2 align="center">🚀 Featured Creations</h2>
 <table align="center">
   <tr>
     <td width="50%">
@@ -47,7 +36,7 @@
       <p>Next.js | Open.Ai Api | Tailwind</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- Coding Activity Snake 
 <h2 align="center">🐍 Contribution Serpent</h2>
@@ -58,17 +47,17 @@
 
 
 <!-- Random Dev Joke -->
-<h2 align="center">💡 Daily Dev Joke</h2>
+<!-- <h2 align="center">💡 Daily Dev Joke</h2>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
-</div>
+</div> -->
 
 <!-- Footer ASCII -->
-<div align="center">
+<!-- <div align="center">
   <pre>
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 🚀 Exploring the universe of code
 🌌 Currently orbiting: How things work under the hood
 📫 How to reach me: abdinajibmohamed304@gmail.com 
   </pre>
-</div>
+</div> -->
