@@ -2,9 +2,12 @@
 <div align="center">
   <pre>                                             
                                               
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&center=true&vCenter=true&width=435&lines=Hi👋+I+Am+Abdinajib;+computer+nerd;i+love+under+the+hood" alt="Typing SVG" />
-</h3>
+ <h3>
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&center=true&vCenter=true&width=600&lines=Hi+👋+I+am+Ahmed+Osman;Curious+by+nature;I+break+systems+to+understand+them;I+build+clean%2C+useful+software;Always+learning+what's+under+the+hood"
+      alt="Typing SVG"
+    />
+  </h3>
   </pre>
 
 <!-- Animated greeting -->
